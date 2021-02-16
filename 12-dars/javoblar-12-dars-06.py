@@ -15,3 +15,4 @@ for n in range(2,11):
     if son % n == 0:
         print(f"{son} soni {n} ga qoldiqsiz bo'linadi")
 
+print("Yangilanish")
